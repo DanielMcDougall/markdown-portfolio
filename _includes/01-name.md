@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Daniel McDougall #
+## This is my site using headers now ##
